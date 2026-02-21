@@ -13,9 +13,9 @@
                 <li class="nav-item dropdown">
                     <a href="#" class="nav-link">Tentang Kami <i class="fas fa-chevron-down"></i></a>
                     <ul class="dropdown-menu">
-                        <li><a href="/pages/tentang-kami/struktur-organisasi.php">Struktur Organisasi</a></li>
-                        <li><a href="/pages/tentang-kami/roadmap.php">Road Map Kelembagaan</a></li>
-                        <li><a href="/pages/tentang-kami/publikasi.php">Kegiatan Publikasi dan Penelitian</a></li>
+                        <li><a href="/pages/tentang-kami/struktur-organisasi/index.php">Struktur Organisasi</a></li>
+                        <li><a href="/pages/tentang-kami/roadmap/index.php">Road Map Kelembagaan</a></li>
+                        <li><a href="/pages/tentang-kami/publikasi/index.php">Kegiatan Publikasi dan Penelitian</a></li>
                     </ul>
                 </li>
                 
@@ -23,9 +23,9 @@
                 <li class="nav-item dropdown">
                     <a href="#" class="nav-link">Peneliti <i class="fas fa-chevron-down"></i></a>
                     <ul class="dropdown-menu">
-                        <li><a href="/pages/peneliti/daftar_peneliti.php">Daftar Peneliti</a></li>
-                        <li><a href="/pages/peneliti/profil_peneliti.php">Profil Peneliti</a></li>
-                        <li><a href="/pages/peneliti/prestasi_peneliti.php">Prestasi & Kegiatan Peneliti</a></li>
+                        <li><a href="/pages/peneliti/daftar_peneliti/index.php">Daftar Peneliti</a></li>
+                        <li><a href="/pages/peneliti/profil_peneliti/index.php">Profil Peneliti</a></li>
+                        <li><a href="/pages/peneliti/prestasi_peneliti/index.php">Prestasi & Kegiatan Peneliti</a></li>
                     </ul>
                 </li>
                 
@@ -33,8 +33,8 @@
                 <li class="nav-item dropdown">
                     <a href="#" class="nav-link">Riset <i class="fas fa-chevron-down"></i></a>
                     <ul class="dropdown-menu">
-                        <li><a href="/pages/riset/tema_riset.php">Tema Utama Riset</a></li>
-                        <li><a href="/pages/riset/daftar_penelitian.php">Daftar Penelitian</a></li>
+                        <li><a href="/pages/riset/tema_riset/index.php">Tema Utama Riset</a></li>
+                        <li><a href="/pages/riset/daftar_penelitian/index.php">Daftar Penelitian</a></li>
                     </ul>
                 </li>
                 
@@ -42,9 +42,9 @@
                 <li class="nav-item dropdown">
                     <a href="/pages/program/program.php" class="nav-link">Program <i class="fas fa-chevron-down"></i></a>
                     <ul class="dropdown-menu">
-                        <li><a href="/pages/program/bantuan-kolaborasi-riset.php">Panduan Bantuan & Kolaborasi Riset</a></li>
-                        <li><a href="/pages/program/panduan-magang.php">Panduan Magang</a></li>
-                        <li><a href="/pages/program/pelatihan.php">Pelatihan</a></li>
+                        <li><a href="/pages/program/bantuan-kolaborasi-riset/index.php">Panduan Bantuan & Kolaborasi Riset</a></li>
+                        <li><a href="/pages/program/panduan-magang/index.php">Panduan Magang</a></li>
+                        <li><a href="/pages/program/pelatihan/index.php">Pelatihan</a></li>
                     </ul>
                 </li>
                 
@@ -52,8 +52,8 @@
                 <li class="nav-item dropdown">
                     <a href="#" class="nav-link">Artikel <i class="fas fa-chevron-down"></i></a>
                     <ul class="dropdown-menu">
-                        <li><a href="/pages/artikel/opini.php">Opini</a></li>
-                        <li><a href="/pages/artikel/essay.php">Essay</a></li>
+                        <li><a href="/pages/artikel/opini/index.php">Opini</a></li>
+                        <li><a href="/pages/artikel/essay/index.php">Essay</a></li>
                     </ul>
                 </li>
                 
