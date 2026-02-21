@@ -25,4 +25,4 @@ if (session_status() === PHP_SESSION_NONE) {
     <base href="/">
 </head>
 <body>
-   <?php include 'navbar.php'; ?>
+   <?php include '../../../partials/navbar/index.php'; ?>

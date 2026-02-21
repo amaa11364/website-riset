@@ -1,6 +1,6 @@
 <?php
 $pageTitle = "Daftar Peneliti - PUI-TVET Research Center";
-include '../../../partials/header.php';
+include '../../../partials/header/index.php';
 ?>
 
 <div class="container main-content">
@@ -273,7 +273,7 @@ include '../../../partials/header.php';
         
         <!-- Kolom Kanan - Sidebar -->
         <div class="col-4">
-            <?php include '../../../partials/sidebar.php'; ?>
+            <?php include '../../../partials/sidebar/index.php'; ?>
             
             <!-- Additional Widget for Researchers -->
             <div class="sidebar-widget">
@@ -719,4 +719,4 @@ document.addEventListener('DOMContentLoaded', function() {
 });
 </script>
 
-<?php include '../../../partials/footer.php'; ?>
+<?php include '../../../partials/footer/index.php'; ?>

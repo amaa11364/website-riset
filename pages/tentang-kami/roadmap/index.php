@@ -1,6 +1,6 @@
 <?php
 $pageTitle = "Struktur Organisasi - PUI-TVET Research Center";
-include '../../../partials/header.php';
+include '../../../partials/header/index.php';
 ?>
 
 <div class="container main-content">
@@ -194,7 +194,7 @@ include '../../../partials/header.php';
         
         <!-- Kolom Kanan - Sidebar -->
         <div class="col-4">
-            <?php include '../../../partials/sidebar.php'; ?>
+            <?php include '../../../partials/sidebar/index.php'; ?>
         </div>
     </div>
 </div>
@@ -351,4 +351,4 @@ include '../../../partials/header.php';
 }
 </style>
 
-<?php include '../../../partials/footer.php'; ?>
+<?php include '../../../partials/footer/index.php'; ?>
