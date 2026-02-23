@@ -1,6 +1,6 @@
 <?php
 $pageTitle = "Profil Peneliti - PUI-TVET Research Center";
-include '../../../partials/header.php';
+include '../../../partials/header/index.php';
 
 // Simulasi data peneliti berdasarkan ID
 $id = isset($_GET['id']) ? (int)$_GET['id'] : 1;
@@ -224,7 +224,7 @@ $avatarFallback = 'https://ui-avatars.com/api/?name=' . urlencode($researcher['n
         
         <!-- Kolom Kanan - Sidebar -->
         <div class="col-4">
-            <?php include '../../../partials/sidebar.php'; ?>
+            <?php include '../../../partials/sidebar/index.php'; ?>
             
             <!-- Quick Info -->
             <div class="sidebar-widget">
@@ -550,4 +550,4 @@ $avatarFallback = 'https://ui-avatars.com/api/?name=' . urlencode($researcher['n
 }
 </style>
 
-<?php include '../../../partials/footer.php'; ?>
+<?php include '../../../partials/footer/index.php'; ?>

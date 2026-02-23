@@ -11,12 +11,12 @@ include '../../../partials/header/index.php';
                 <h1 class="article-title">Road Map Kelembagaan</h1>
                 
                 <div class="article-meta">
-                    <span class="post-date"><i class="far fa-calendar-alt"></i> Diposkan pada 10 Januari 2025</span>
+                    <span class="post-date"><i class="far fa-calendar-alt"></i> Diposkan pada 15 Juli 2025</span>
                     <span class="post-author"><i class="far fa-user"></i> Oleh admin_tvet</span>
                 </div>
                 
                 <div class="article-content">
-                    <p>Road Map Kelembagaan PUI-TVET Research Center 2025-2035 merupakan panduan strategis dalam pengembangan pusat riset unggulan di bidang pendidikan teknik dan vokasi. Road map ini disusun dengan mempertimbangkan perkembangan teknologi, kebutuhan industri, dan tantangan global dalam pendidikan vokasi.</p>
+                    <p>Road Map Kelembagaan PINKAFOR IKIP Siliwangi 2025–2035 merupakan panduan strategis dalam pengembangan pusat unggulan nasional di bidang inovasi keaksaraan fungsional berbasis riset, teknologi, dan pemberdayaan masyarakat. Road map ini disusun dengan mempertimbangkan tantangan literasi fungsional, transformasi digital, serta agenda nasional peningkatan kualitas sumber daya manusia.</p>
                     
                     <!-- Timeline Roadmap -->
                     <div class="roadmap-timeline">
@@ -30,20 +30,21 @@ include '../../../partials/header/index.php';
                                 <div class="phase-details">
                                     <h4>Tujuan Strategis:</h4>
                                     <ul>
-                                        <li>Penguatan kelembagaan dan tata kelola riset</li>
-                                        <li>Peningkatan kapasitas SDM peneliti</li>
-                                        <li>Pengembangan laboratorium riset terpadu</li>
-                                        <li>Membangun jejaring kerjasama nasional</li>
-                                        <li>Peningkatan publikasi ilmiah di tingkat nasional</li>
+                                        <li>Penguatan kelembagaan dan tata kelola pusat</li>
+                                        <li>Penyusunan blueprint model inovasi keaksaraan fungsional</li>
+                                        <li>Pengembangan prototipe teknologi pembelajaran</li>
+                                        <li>Pemetaan kebutuhan literasi di wilayah sasaran</li>
+                                        <li>Peningkatan kapasitas SDM peneliti dan tutor</li>
                                     </ul>
                                     
                                     <h4>Indikator Keberhasilan:</h4>
                                     <ul>
-                                        <li>Terbangunnya sistem manajemen riset terintegrasi</li>
-                                        <li>20 peneliti dengan sertifikasi kompetensi</li>
-                                        <li>5 laboratorium riset beroperasi penuh</li>
-                                        <li>15 MoU dengan institusi nasional</li>
-                                        <li>50 publikasi di jurnal nasional terakreditasi</li>
+                                        <li>Sistem manajemen pusat dan SOP operasional terbentuk</li>
+                                        <li>1 blueprint model keaksaraan fungsional inovatif</li>
+                                        <li>1 prototipe aplikasi pembelajaran berbasis web/mobile</li>
+                                        <li>3–5 wilayah memiliki data baseline literasi</li>
+                                        <li>20 tutor dan fasilitator tersertifikasi pelatihan</li>
+                                        <li>5 publikasi di jurnal nasional terakreditasi</li>
                                     </ul>
                                 </div>
                             </div>
@@ -59,20 +60,21 @@ include '../../../partials/header/index.php';
                                 <div class="phase-details">
                                     <h4>Tujuan Strategis:</h4>
                                     <ul>
-                                        <li>Pengembangan riset terapan berbasis industri</li>
-                                        <li>Komersialisasi hasil riset</li>
-                                        <li>Penguatan kerjasama internasional</li>
-                                        <li>Peningkatan publikasi di jurnal internasional</li>
-                                        <li>Pengembangan pusat inovasi pembelajaran vokasi</li>
+                                        <li>Implementasi model pada skala menengah lintas wilayah</li>
+                                        <li>Penyempurnaan dan peluncuran aplikasi versi penuh</li>
+                                        <li>Penguatan riset dampak dan evaluasi program</li>
+                                        <li>Ekspansi jejaring nasional dan kolaborasi multi pihak</li>
+                                        <li>Pengembangan konten multimedia berbasis konteks lokal</li>
                                     </ul>
                                     
                                     <h4>Indikator Keberhasilan:</h4>
                                     <ul>
-                                        <li>10 paten dan hak cipta terdaftar</li>
-                                        <li>5 produk riset dikomersialkan</li>
-                                        <li>10 kerjasama riset internasional</li>
-                                        <li>25 publikasi di jurnal internasional bereputasi</li>
-                                        <li>Terbangunnya teaching factory di 5 SMK</li>
+                                        <li>2.000–3.000 pengguna aktif aplikasi</li>
+                                        <li>10 wilayah implementasi program</li>
+                                        <li>Dashboard monitoring berbasis data berjalan optimal</li>
+                                        <li>10 MoU dengan pemerintah daerah/PKBM/perguruan tinggi</li>
+                                        <li>10 publikasi ilmiah (nasional & internasional)</li>
+                                        <li>1 policy brief direkomendasikan ke pemerintah daerah</li>
                                     </ul>
                                 </div>
                             </div>
@@ -88,20 +90,21 @@ include '../../../partials/header/index.php';
                                 <div class="phase-details">
                                     <h4>Tujuan Strategis:</h4>
                                     <ul>
-                                        <li>Ekspansi jejaring riset Asia-Pasifik</li>
-                                        <li>Pengembangan spin-off company</li>
-                                        <li>Pusat rujukan kebijakan pendidikan vokasi</li>
-                                        <li>Peningkatan citation dan impact factor</li>
-                                        <li>Pengembangan platform pembelajaran digital</li>
+                                        <li>Replikasi model keaksaraan inovatif secara nasional</li>
+                                        <li>Penyusunan standar nasional model keaksaraan berbasis teknologi</li>
+                                        <li>Penguatan komersialisasi terbatas (lisensi platform)</li>
+                                        <li>Pengembangan pusat data literasi fungsional nasional</li>
+                                        <li>Penguatan publikasi internasional bereputasi</li>
                                     </ul>
                                     
                                     <h4>Indikator Keberhasilan:</h4>
                                     <ul>
-                                        <li>Terbentuknya konsorsium riset ASEAN</li>
-                                        <li>3 perusahaan spin-off berdiri</li>
-                                        <li>10 rekomendasi kebijakan diadopsi pemerintah</li>
-                                        <li>500 sitasi per tahun</li>
-                                        <li>Platform digunakan oleh 100 institusi</li>
+                                        <li>25 wilayah replikasi program</li>
+                                        <li>1 standar model keaksaraan diakui secara nasional</li>
+                                        <li>5.000+ pengguna aktif platform</li>
+                                        <li>3 kerja sama internasional</li>
+                                        <li>20 publikasi internasional terindeks</li>
+                                        <li>5 rekomendasi kebijakan diadopsi pemerintah</li>
                                     </ul>
                                 </div>
                             </div>
@@ -117,20 +120,20 @@ include '../../../partials/header/index.php';
                                 <div class="phase-details">
                                     <h4>Tujuan Strategis:</h4>
                                     <ul>
-                                        <li>Pengakuan sebagai pusat riset berkelas dunia</li>
-                                        <li>Pengembangan model pendidikan vokasi masa depan</li>
-                                        <li>Keberlanjutan pendanaan riset</li>
-                                        <li>Pengembangan peneliti muda berprestasi</li>
-                                        <li>Kontribusi pada SDGs bidang pendidikan</li>
+                                        <li>Pengakuan sebagai pusat rujukan nasional dan regional</li>
+                                        <li>Pengembangan ekosistem literasi berbasis komunitas berkelanjutan</li>
+                                        <li>Integrasi AI dan adaptive learning dalam platform</li>
+                                        <li>Penguatan pendanaan mandiri berbasis kemitraan</li>
+                                        <li>Kontribusi pada target SDGs bidang pendidikan dan pengentasan kemiskinan</li>
                                     </ul>
                                     
                                     <h4>Indikator Keberhasilan:</h4>
                                     <ul>
-                                        <li>Peringkat top 100 pusat riset Asia</li>
-                                        <li>Model vokasi diadopsi secara nasional</li>
-                                        <li>50% pendanaan dari industri dan kerjasama</li>
-                                        <li>30 peneliti muda dengan prestasi internasional</li>
-                                        <li>Kontribusi pada 5 target SDGs</li>
+                                        <li>Platform digunakan di ≥100 institusi</li>
+                                        <li>10.000+ pengguna aktif</li>
+                                        <li>550% pendanaan berasal dari kemitraan dan kolaborasi</li>
+                                        <li>30 publikasi internasional bereputasi</li>
+                                        <li>Model diadopsi dalam kebijakan nasional literasi</li>
                                     </ul>
                                 </div>
                             </div>
@@ -152,10 +155,24 @@ include '../../../partials/header/index.php';
                             <tbody>
                                 <tr>
                                     <td><strong>SDM Peneliti</strong></td>
-                                    <td>Peningkatan kualifikasi</td>
+                                    <td>Pelatihan & sertifikasi nasional</td>
                                     <td>Sertifikasi internasional</td>
                                     <td>Post-doctoral program</td>
                                     <td>Professor kehormatan</td>
+                                </tr>
+                                <tr>
+                                    <td><strong>Model Keaksaraan</strong></td>
+                                    <td>Blueprint & uji coba</td>
+                                    <td>Implementasi skala menengah</td>
+                                    <td>Standardisasi nasional</td>
+                                    <td>Model rujukan internasional</td>
+                                </tr>
+                                <tr>
+                                    <td><strong>Teknologi</strong></td>
+                                    <td>Prototipe aplikasi</td>
+                                    <td>Versi penuh + dashboard</td>
+                                    <td>Adaptive learning system</td>
+                                    <td>Integrasi AI & big data</td>
                                 </tr>
                                 <tr>
                                     <td><strong>Publikasi</strong></td>
@@ -166,24 +183,24 @@ include '../../../partials/header/index.php';
                                 </tr>
                                 <tr>
                                     <td><strong>Kerjasama</strong></td>
+                                    <td>Lokal</td>
+                                    <td>Regional</td>
                                     <td>Nasional</td>
-                                    <td>Regional ASEAN</td>
-                                    <td>Asia-Pasifik</td>
-                                    <td>Global</td>
+                                    <td>Internasional</td>
                                 </tr>
                                 <tr>
-                                    <td><strong>Inovasi</strong></td>
-                                    <td>Prototype</td>
-                                    <td>Paten</td>
-                                    <td>Komersialisasi</td>
-                                    <td>Spin-off company</td>
+                                    <td><strong>Implementasi</strong></td>
+                                    <td>3–5 wilayah</td>
+                                    <td>10 wilayah</td>
+                                    <td>25 wilayah</td>
+                                    <td>100+ institusi</td>
                                 </tr>
                                 <tr>
                                     <td><strong>Infrastruktur</strong></td>
-                                    <td>Laboratorium dasar</td>
-                                    <td>Lab terintegrasi</td>
-                                    <td>Smart lab</td>
-                                    <td>Virtual research center</td>
+                                    <td>Sistem dasar & server</td>
+                                    <td>Platform terintegrasi</td>
+                                    <td>National literacy data center</td>
+                                    <td>Virtual literacy innovation hub</td>
                                 </tr>
                             </tbody>
                         </table>

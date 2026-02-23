@@ -16,7 +16,7 @@ include '../../../partials/header/index.php';
                 </div>
                 
                 <div class="article-content">
-                    <p>PUI-TVET Research Center secara aktif melakukan berbagai kegiatan penelitian dan publikasi ilmiah dalam rangka pengembangan ilmu pengetahuan dan teknologi di bidang pendidikan teknik dan vokasi. Berikut adalah ringkasan kegiatan dan capaian kami.</p>
+                    <p>PINKAFOR IKIP Siliwangi merupakan pengembangan pusat unggulan nasional di bidang inovasi keaksaraan fungsional berbasis riset, teknologi, dan pemberdayaan masyarakat. Kegiatan publikasi dan penelitian ini difokuskan pada literasi fungsional, transformasi digital, serta agenda nasional peningkatan kualitas sumber daya manusia. Berikut adalah ringkasan kegiatan dan capaian kami.</p>
                     
                     <!-- Statistik Penelitian -->
                     <div class="research-stats">

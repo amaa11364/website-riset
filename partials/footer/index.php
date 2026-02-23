@@ -3,8 +3,8 @@
         <div class="footer-content">
             <!-- About Section -->
             <div class="footer-section">
-                <h3>PUI-TVET Research Center</h3>
-                <p>Pusat Unggulan Inovasi Pendidikan Teknik dan Vokasi yang berkomitmen untuk meningkatkan kualitas pendidikan vokasi di Indonesia melalui riset terapan dan kolaborasi strategis.</p>
+                <h3>PINKAFOR IKIP Research Center</h3>
+                <p>Pusat Unggulan Inovasi Keaksaraan Fungsional yang berkomitmen untuk meningkatkan kualitas literasi fungsional masyarakat di Indonesia melalui riset terapan dan kolaborasi strategis.</p>
             </div>
             
             <!-- Quick Links -->
@@ -21,9 +21,9 @@
             <!-- Contact -->
             <div class="footer-section">
                 <h4>Kontak</h4>
-                <p><i class="fas fa-map-marker-alt"></i> Jl. Pendidikan No. 123, Bandung</p>
-                <p><i class="fas fa-phone"></i> +62 22 1234 5678</p>
-                <p><i class="fas fa-envelope"></i> info@puitvet-rc.ac.id</p>
+                <p><i class="fas fa-map-marker-alt"></i> Jl. Terusan Jenderal Sudirman No.3, Baros, Kec. Cimahi Tengah, Kota Cimahi, Jawa Barat 40521</p>
+                <p><i class="fas fa-phone"></i> +62 813-1994-9949</p>
+                <p><i class="fas fa-envelope"></i> pinkafor@ikipsiliwangi.ac.id</p>
             </div>
             
             <!-- Social -->
@@ -31,15 +31,15 @@
                 <h4>Ikuti Kami</h4>
                 <div class="social-links">
                     <a href="#"><i class="fab fa-facebook-f"></i></a>
-                    <a href="#"><i class="fab fa-twitter"></i></a>
-                    <a href="#"><i class="fab fa-instagram"></i></a>
-                    <a href="#"><i class="fab fa-linkedin-in"></i></a>
+                    <a href="https://www.youtube.com/@ikipsiliwangi"><i class="fab fa-youtube"></i></a>
+                    <a href="https://www.instagram.com/ikipsiliwangi/"><i class="fab fa-instagram"></i></a>
+                    <a href="https://www.tiktok.com/@info.ikipsiliwangi"><i class="fab fa-tiktok"></i></a>
                 </div>
             </div>
         </div>
         
         <div class="footer-bottom">
-            <p>&copy; 2025 PUI-TVET Research Center | HKI Sistem Akreditasi AS</p>
+            <p>&copy; 2025 PINKAFOR IKIP SILIWANGI - Research Center | Akreditasi Unggul</p>
         </div>
     </div>
 </footer>

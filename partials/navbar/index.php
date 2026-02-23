@@ -4,7 +4,7 @@
             <div class="nav-logo">
                 <a href="index.php">
                     <img src="/assets/images/25600_Logo-IKIP-warna.png" alt="PUI-TVET Logo" class="logo-img">
-                    <span class="logo-text">PUI-TVET<span class="logo-highlight">RC</span></span>
+                    <span class="logo-text">PINKAFOR<span class="logo-highlight">RC</span></span>
                 </a>
             </div>
             
