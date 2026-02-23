@@ -8,7 +8,7 @@ include '../../../partials/header/index.php';
         <!-- Kolom Kiri - Konten Utama -->
         <div class="col-8">
             <article class="content-article">
-                <h1 class="article-title">Kegiatan Publikasi dan Penelitian</h1>
+                <h1 class="article-title">Kegiatan Publikasi dan Penelitian percobaan</h1>
                 
                 <div class="article-meta">
                     <span class="post-date"><i class="far fa-calendar-alt"></i> Diposkan pada 5 Januari 2025</span>
