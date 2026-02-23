@@ -1,6 +1,6 @@
 <?php
 $pageTitle = "Prestasi & Kegiatan Peneliti - PUI-TVET Research Center";
-include '../../../partials/header/index.php';
+include '../../../partials/header.php';
 ?>
 
 <div class="container main-content">
@@ -237,7 +237,7 @@ include '../../../partials/header/index.php';
         
         <!-- Kolom Kanan - Sidebar -->
         <div class="col-4">
-            <?php include '../../../partials/sidebar/index.php'; ?>
+            <?php include '../../../partials/sidebar.php'; ?>
             
             <!-- Prestasi Stats -->
             <div class="sidebar-widget">
@@ -800,4 +800,4 @@ document.addEventListener('DOMContentLoaded', function() {
 });
 </script>
 
-<?php include '../../../partials/footer/index.php'; ?>
+<?php include '../../../partials/footer.php'; ?>

@@ -25,4 +25,7 @@ if (session_status() === PHP_SESSION_NONE) {
     <base href="/">
 </head>
 <body>
-   <?php include '../../../partials/navbar/index.php'; ?>
+   <?php 
+   // Path yang benar ke file navbar
+   include __DIR__ . '/../navbar/index.php'; 
+   ?>

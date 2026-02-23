@@ -1,6 +1,6 @@
 <?php
 $pageTitle = "Daftar Peneliti - PUI-TVET Research Center";
-include '../../../partials/header/index.php';
+include '../../../partials/header.php';
 ?>
 
 <div class="container main-content">
@@ -11,12 +11,12 @@ include '../../../partials/header/index.php';
                 <h1 class="article-title">Daftar Peneliti</h1>
                 
                 <div class="article-meta">
-                    <span class="post-date"><i class="far fa-calendar-alt"></i> Terakhir diperbarui: 20 Februari 2025</span>
+                    <span class="post-date"><i class="far fa-calendar-alt"></i> Terakhir diperbarui: 20 Juli 2023</span>
                     <span class="post-author"><i class="far fa-user"></i> Oleh admin_tvet</span>
                 </div>
                 
                 <div class="article-content">
-                    <p>PUI-TVET Research Center memiliki tim peneliti yang kompeten dan berpengalaman di bidang pendidikan teknik dan vokasi. Para peneliti berasal dari berbagai latar belakang keilmuan dan telah menghasilkan berbagai publikasi ilmiah baik di tingkat nasional maupun internasional.</p>
+                    <p>PINKAFOR IKIP Siliwangi memiliki tim peneliti yang kompeten dan berpengalaman di bidang keaksaraan fungsional. Para peneliti berasal dari berbagai latar belakang keilmuan dan telah menghasilkan berbagai publikasi ilmiah baik di tingkat nasional maupun internasional.</p>
                     
                     <!-- Search and Filter -->
                     <div class="researcher-search">
@@ -65,7 +65,7 @@ include '../../../partials/header/index.php';
                                     <span><i class="fas fa-trophy"></i> 12 Paten</span>
                                 </div>
                                 <div class="researcher-actions">
-                                    <a href="/pages/peneliti/profil_peneliti/index.php?id=1" class="btn-view">
+                                    <a href="/pages/peneliti/profil_peneliti.php?id=1" class="btn-view">
                                         <i class="fas fa-user"></i> Lihat Profil
                                     </a>
                                     <a href="#" class="btn-contact">
@@ -91,7 +91,7 @@ include '../../../partials/header/index.php';
                                     <span><i class="fas fa-trophy"></i> 7 Paten</span>
                                 </div>
                                 <div class="researcher-actions">
-                                    <a href="/pages/peneliti/profil_peneliti/index.php?id=2" class="btn-view">
+                                    <a href="/pages/peneliti/profil_peneliti.php?id=2" class="btn-view">
                                         <i class="fas fa-user"></i> Lihat Profil
                                     </a>
                                     <a href="#" class="btn-contact">
@@ -117,7 +117,7 @@ include '../../../partials/header/index.php';
                                     <span><i class="fas fa-trophy"></i> 15 Paten</span>
                                 </div>
                                 <div class="researcher-actions">
-                                    <a href="/pages/peneliti/profil_peneliti/index.php?id=3" class="btn-view">
+                                    <a href="/pages/peneliti/profil_peneliti.php?id=3" class="btn-view">
                                         <i class="fas fa-user"></i> Lihat Profil
                                     </a>
                                     <a href="#" class="btn-contact">
@@ -143,7 +143,7 @@ include '../../../partials/header/index.php';
                                     <span><i class="fas fa-trophy"></i> 3 Paten</span>
                                 </div>
                                 <div class="researcher-actions">
-                                    <a href="/pages/peneliti/profil_peneliti/index.php?id=4" class="btn-view">
+                                    <a href="/pages/peneliti/profil_peneliti.php?id=4" class="btn-view">
                                         <i class="fas fa-user"></i> Lihat Profil
                                     </a>
                                     <a href="#" class="btn-contact">
@@ -169,7 +169,7 @@ include '../../../partials/header/index.php';
                                     <span><i class="fas fa-trophy"></i> 8 Paten</span>
                                 </div>
                                 <div class="researcher-actions">
-                                    <a href="/pages/peneliti/profil_peneliti/index.php?id=5" class="btn-view">
+                                    <a href="/pages/peneliti/profil_peneliti.php?id=5" class="btn-view">
                                         <i class="fas fa-user"></i> Lihat Profil
                                     </a>
                                     <a href="#" class="btn-contact">
@@ -221,7 +221,7 @@ include '../../../partials/header/index.php';
                                     <span><i class="fas fa-trophy"></i> 4 Paten</span>
                                 </div>
                                 <div class="researcher-actions">
-                                    <a href="/pages/peneliti/profil_peneliti/index.php?id=7" class="btn-view">
+                                    <a href="/pages/peneliti/profil_peneliti.php?id=7" class="btn-view">
                                         <i class="fas fa-user"></i> Lihat Profil
                                     </a>
                                     <a href="#" class="btn-contact">
@@ -247,7 +247,7 @@ include '../../../partials/header/index.php';
                                     <span><i class="fas fa-trophy"></i> 2 Paten</span>
                                 </div>
                                 <div class="researcher-actions">
-                                    <a href="/pages/peneliti/profil_peneliti/index.php?id=8" class="btn-view">
+                                    <a href="/pages/peneliti/profil_peneliti.php?id=8" class="btn-view">
                                         <i class="fas fa-user"></i> Lihat Profil
                                     </a>
                                     <a href="#" class="btn-contact">
@@ -273,7 +273,7 @@ include '../../../partials/header/index.php';
         
         <!-- Kolom Kanan - Sidebar -->
         <div class="col-4">
-            <?php include '../../../partials/sidebar/index.php'; ?>
+            <?php include '../../../partials/sidebar.php'; ?>
             
             <!-- Additional Widget for Researchers -->
             <div class="sidebar-widget">
@@ -671,4 +671,4 @@ document.addEventListener('DOMContentLoaded', function() {
 });
 </script>
 
-<?php include '../../../partials/footer/index.php'; ?>
+<?php include '../../../partials/footer.php'; ?>
